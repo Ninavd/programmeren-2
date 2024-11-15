@@ -86,4 +86,4 @@ Je kan beginnen met de volgende code:
 
 ## Schrijf tests voor PriorityQueue
 
-Schrijf in een apart bestand `pytest` tests voor `PrioriyQueue`.
+Schrijf in een apart bestand `pytest` tests voor `PriorityQueue`.
